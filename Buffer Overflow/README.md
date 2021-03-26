@@ -1,1 +1,1 @@
-This report presents a program vulnerable to buffer overflow, how to exploit a buffer overflow vulnerability, and what are the prevention mechanisms in modern-day operating systems to avoid having such vulnerabilities.
+These reports presents programs vulnerable to buffer overflow, how to exploit a buffer overflow vulnerability without using C Library and using C Library, and what are the prevention mechanisms in modern-day operating systems to avoid having such vulnerabilities.
