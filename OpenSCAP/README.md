@@ -1,0 +1,1 @@
+This reports explains using OpenSCAP, an auditing tool that utilizes the Extensible Configuration Checklist Description Format (XCCDF) for security checklist, to identify and verify remediation of security issues in a Fedora OS environment.
