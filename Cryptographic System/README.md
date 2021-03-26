@@ -1,0 +1,1 @@
+The report explains a simple cryptographic scheme to ensure confidentiality, integrity, non-repudiation, and authenticity of data. It also includes a bash script to setup such system in a linux environment.
